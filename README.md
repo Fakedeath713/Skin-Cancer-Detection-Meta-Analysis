@@ -1,9 +1,12 @@
 # Skin Cancer-Detection Meta Analysis
  Graduation project to analyse and compare diffrent skin cancer detection algorithms.
 
+Base Epoch Rate - 10
+
 VGG16
 MobileNet
 ResNetV2
+ResNet50
 DenseNet169 / 201
 Inception V3
 InceptionResNetV2
