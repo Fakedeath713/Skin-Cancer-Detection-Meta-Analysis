@@ -1,1 +1,4 @@
+# Ignore dataset and image folders
+data/
+HAM10000_images/
 *.jpg
